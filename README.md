@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32077971/README.md)
+
 # Marketing Campaign Data Cleaning
 
 A Python/Pandas project that takes a messy, real-world-style marketing campaign
@@ -84,6 +84,5 @@ path at the top of the notebook if you move the data folder.
   are dataset-specific judgment calls, documented inline in the notebook —
   worth calling out if someone reuses this on different data.
 
-## License
 
-MIT — see [LICENSE](LICENSE).
+
